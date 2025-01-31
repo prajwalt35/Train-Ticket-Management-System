@@ -20,6 +20,8 @@ A **C# Windows Forms** application for booking train tickets with role-based acc
 - **ADO.NET** (Connected & Disconnected Architecture)
 - **Git & GitHub** (Version Control)
 
+## 🛠️ Screenshots
+
 ![Home_Page](https://github.com/user-attachments/assets/cee2bcfa-6c4d-4783-b92a-afc206d16c4a)
 
 ![Login_Page](https://github.com/user-attachments/assets/688e2fd5-e290-4e5e-a7e2-be1198130f05)
