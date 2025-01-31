@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\bin\Debug\Mini_Project.exe
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\bin\Debug\Mini_Project.exe.config
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Form1.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Login.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Properties.Resources.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Registration.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Reservation_Counter.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.csproj.GenerateResource.cache
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.exe
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.pdb
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\bin\Debug\Mini_Project.pdb
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.User_DashBoard.resources
+C:\Users\prajw\source\repos\C# Programs SeedInotech\Mini_Project\obj\Debug\Mini_Project.Admin_Dashboard.resources

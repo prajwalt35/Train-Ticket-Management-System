@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|c:\\users\\prajw\\source\\repos\\c# programs seedinotech\\mini_project\\user_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:user_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\user_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:user_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\reservation_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:reservation_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\reservation_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:reservation_counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|c:\\users\\prajw\\source\\repos\\c# programs seedinotech\\mini_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1F9288-4287-4BF5-A5D1-2A4DEBE2DA27}|Mini_Project.csproj|solutionrelative:admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation_Counter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Reservation_Counter.cs",
+              "RelativeDocumentMoniker": "Reservation_Counter.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Reservation_Counter.cs [Design]",
+              "RelativeToolTip": "Reservation_Counter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:35.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation_Counter.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Reservation_Counter.cs",
+              "RelativeDocumentMoniker": "Reservation_Counter.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Reservation_Counter.cs",
+              "RelativeToolTip": "Reservation_Counter.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwL8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:49:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\User_DashBoard.cs",
+              "RelativeDocumentMoniker": "User_DashBoard.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\User_DashBoard.cs [Design]",
+              "RelativeToolTip": "User_DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:24:20.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\User_DashBoard.cs",
+              "RelativeDocumentMoniker": "User_DashBoard.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\User_DashBoard.cs",
+              "RelativeToolTip": "User_DashBoard.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwLEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:25:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:18:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:32.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:29.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:45:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:19:51.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:56:16.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "Admin_Dashboard.cs",
+              "ToolTip": "C:\\Users\\prajw\\source\\repos\\C# Programs SeedInotech\\Mini_Project\\Admin_Dashboard.cs",
+              "RelativeToolTip": "Admin_Dashboard.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:57:04.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
