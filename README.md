@@ -5,7 +5,8 @@ A **C# Windows Forms** application for booking train tickets with role-based acc
 ## 📌 Features
 ### 🔹 **Admin Dashboard**
 - Add new train details.
-- Update or delete existing train records.
+- Update existing train records.
+- Delete existing train records.
 
 ### 🔹 **User Dashboard**
 - Book train tickets based on available trains.
